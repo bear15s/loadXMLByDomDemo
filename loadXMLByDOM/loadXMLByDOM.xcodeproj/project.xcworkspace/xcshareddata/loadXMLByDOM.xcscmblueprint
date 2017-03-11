@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7768B0C2B0CA74F3752D15FF8DCA25B2E703C615",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7768B0C2B0CA74F3752D15FF8DCA25B2E703C615" : 9223372036854775807,
+    "3F4E69F141238409E3EE2A8CE600ACB69B73B7FB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D640CB4B-6A01-4C9B-A017-6E16B4D8EFE5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7768B0C2B0CA74F3752D15FF8DCA25B2E703C615" : "loadXMLByDomDemo\/",
+    "3F4E69F141238409E3EE2A8CE600ACB69B73B7FB" : "loadXMLDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "loadXMLByDOM",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "loadXMLByDOM\/loadXMLByDOM.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bear15s\/loadXMLDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3F4E69F141238409E3EE2A8CE600ACB69B73B7FB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bear15s\/loadXMLByDomDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7768B0C2B0CA74F3752D15FF8DCA25B2E703C615"
+    }
+  ]
+}
